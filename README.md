@@ -4,4 +4,4 @@
 ## Aprendizado_Em_Python
 ### Se_Aprofundando_Na_Linguagem
 
-Neste curso do básico ao avançado, estou aprendendo tudo sobre a linguagem Python com o professor Luiz Otavio Miranda.
+Neste curso do básico ao avançado, estou aprendendo tudo sobre a linguagem Python com o professor Luiz Otavio Miranda com a resolução de desafios proposto.
